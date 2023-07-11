@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jen1w3n
 - 👀 I’m interested in IT and biology
-- 🌱 I’m currently learning Computer Information Sciences
+- 🌱 I’m currently studying Computer Information Sciences
 - 📫 How to reach me: jennadebeer.01@gmail.com
 
 <!---
